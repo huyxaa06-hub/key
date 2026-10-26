@@ -1,0 +1,5 @@
+{
+    "VIP-KEY-12345": {"active": true},
+    "VIP-KEY-67890": {"active": true},
+    "TEST-KEY-00000": {"active": false}
+}
